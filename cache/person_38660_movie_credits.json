@@ -1,0 +1,164 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/ap5DOvqzyIld9VBZZ5Yuc251RJo.jpg",
+   "genre_ids": [
+    53,
+    27
+   ],
+   "id": 10727,
+   "title": "Darkness Falls",
+   "original_language": "en",
+   "original_title": "Darkness Falls",
+   "overview": "A vengeful spirit has taken the form of the Tooth Fairy to exact vengeance on the town that lynched her 150 years earlier. Her only opposition is the only child, now grown up, who has survived her before.",
+   "popularity": 3.2425,
+   "poster_path": "/qoceKsM15yL5Tmyuhkdl7vM5Vi4.jpg",
+   "release_date": "2003-01-24",
+   "softcore": false,
+   "video": false,
+   "vote_average": 5.622,
+   "vote_count": 695,
+   "character": "Michael Greene",
+   "credit_id": "52fe43aa9251416c7501952f",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/2t8YndYviluqRE8zgY3VPhZaijS.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 1313990,
+   "title": "The Colour Blue",
+   "original_language": "en",
+   "original_title": "The Colour Blue",
+   "overview": "Reece tries to find the courage to come out to his family and friends.",
+   "popularity": 1.4683,
+   "poster_path": "/3A1ELKOPdJmJg5T02fENMi5BIPR.jpg",
+   "release_date": "2024-06-24",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.5,
+   "vote_count": 2,
+   "character": "Pete Cook",
+   "credit_id": "668abc21806853c8763fd5a4",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/oN8AdRzhtpfk185DpdfIfiAHokf.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 338261,
+   "title": "Downriver",
+   "original_language": "en",
+   "original_title": "Downriver",
+   "overview": "James has served time for drowning a little boy when he was a child, although the body was never found in the river. A visit from his victim's mother upon parole sends him on a quest to find the truth. With little time and danger at every turn, James risks his freedom and his life to uncover the trail of sins that might give closure to the grieving mother.",
+   "popularity": 0.8286,
+   "poster_path": "/1TXqvqW16940pzrsrIkKBfVRYRL.jpg",
+   "release_date": "2015-08-07",
+   "softcore": false,
+   "video": false,
+   "vote_average": 4.6,
+   "vote_count": 16,
+   "character": "Trav",
+   "credit_id": "585fab1592514115be01bf6b",
+   "order": 7
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/jWRS1mKv4EhCv6N3XKLTCO5JQaR.jpg",
+   "genre_ids": [
+    18,
+    10749
+   ],
+   "id": 4629,
+   "title": "December Boys",
+   "original_language": "en",
+   "original_title": "December Boys",
+   "overview": "For many years, four teenage orphans at an Australian outback convent have watched their younger comrades find new parents, and realize that they may never be adopted. The Reverend Mother sends the four boys away on a seaside vacation, where they meet Teresa and Fearless, a couple who would make perfect parents. The youths compete with one another to be the one Teresa and Fearless decide to adopt.",
+   "popularity": 2.059,
+   "poster_path": "/28Q3BZgCI8imvbC8qQWDAL0nqjR.jpg",
+   "release_date": "2007-09-14",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.0,
+   "vote_count": 218,
+   "character": "Misty",
+   "credit_id": "59a62db992514112fb0023e0",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/jKPPpRiXOsBswsKarUoYbpd41eB.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 621007,
+   "title": "Triple Swear",
+   "original_language": "en",
+   "original_title": "Triple Swear",
+   "overview": "A lifetime of innocent fun together can’t stop the darkness from creeping in.  Every summer break, Jess, her older brother Trav, and their friend Kelsey spend all their time together. When the others sneak off for a party one night, Jess slowly realises that the trio will never be the same.",
+   "popularity": 0.8168,
+   "poster_path": "/wslAhw27UlUYx6ust4LlcPEalvt.jpg",
+   "release_date": "2019-08-10",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "",
+   "credit_id": "5d4e30f3839d930012ac95af",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/geJLQjNXuLhEz5Nr8bTOBIUAn2G.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 337960,
+   "title": "Holding the Man",
+   "original_language": "en",
+   "original_title": "Holding the Man",
+   "overview": "Tim and John fell in love while teenagers at their all-boys high school. John was captain of the football team, Tim an aspiring actor playing a minor part in Romeo and Juliet. Their romance endured for 15 years in the face of everything life threw at it – the separations, the discrimination, the temptations, the jealousies and the losses – until the only problem that love can't solve tried to destroy them.",
+   "popularity": 1.6911,
+   "poster_path": "/dF04CHO27xbNL0Zn0JJ0QdC7SNU.jpg",
+   "release_date": "2015-08-27",
+   "softcore": false,
+   "video": false,
+   "vote_average": 7.665,
+   "vote_count": 471,
+   "character": "Eric",
+   "credit_id": "5eebe72ab84cdd00332c3615",
+   "order": 11
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/oAXisvkbLCXbKDKuWljj8mpIjse.jpg",
+   "genre_ids": [
+    80,
+    18,
+    10770
+   ],
+   "id": 61571,
+   "title": "Underbelly Files: Tell Them Lucifer Was Here",
+   "original_language": "en",
+   "original_title": "Underbelly Files: Tell Them Lucifer Was Here",
+   "overview": "Tell Them Lucifer Was Here depicts the tragic murders of Victorian police officers, Gary Silk and Rod Miller which occurred in 1998 and shows the enormous efforts of the Lorimer Task Force in leading the manhunt for their killer or killers.",
+   "popularity": 1.0285,
+   "poster_path": "/hN3in32pDd5PqyCn8I2ea1ndjjl.jpg",
+   "release_date": "2011-02-07",
+   "softcore": false,
+   "video": false,
+   "vote_average": 4.5,
+   "vote_count": 4,
+   "character": "Joseph Debs",
+   "credit_id": "608c337f8c40f70057e89d3c",
+   "order": 57
+  }
+ ],
+ "crew": [],
+ "id": 38660
+}

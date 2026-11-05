@@ -1,0 +1,70 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/3lhU6OPhhu9aCgK0lJVAOmOVly5.jpg",
+   "genre_ids": [
+    18,
+    53,
+    10749
+   ],
+   "id": 976581,
+   "title": "Femme",
+   "original_language": "en",
+   "original_title": "Femme",
+   "overview": "Jules is a drag artist in London who withdraws into himself and loses his career after a horrific attack. Months later, he recognizes one of his assailants in a gay sauna and quickly realizes he has the perfect opportunity to get revenge.",
+   "popularity": 1.7552,
+   "poster_path": "/ys0tzA5J0qW2mfMlrzJJdvipbmN.jpg",
+   "release_date": "2023-12-01",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.956,
+   "vote_count": 172,
+   "character": "Lee",
+   "credit_id": "65a6e05851c01f012b606245",
+   "order": 13
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [],
+   "id": 497871,
+   "title": "Straight Edge",
+   "original_language": "en",
+   "original_title": "Straight Edge",
+   "overview": "Dan is knee deep in the Devon pop-punk-straight-edge movement of 2005, which is exactly as ridiculous as it sounds. Him and his best friend, Louisa, follow their idol, Craig, into dangerous terroritory, which threatnes to scratch away his beloved newfound identity.",
+   "popularity": 0.6897,
+   "poster_path": null,
+   "release_date": "",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Craig",
+   "credit_id": "5a585f0e0e0a2634f40050cb",
+   "order": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/igO0gR0KyGv4LtU4xTOx1TBMaFM.jpg",
+   "genre_ids": [],
+   "id": 691329,
+   "title": "Endgame & Rough for Theatre II",
+   "original_language": "en",
+   "original_title": "Endgame & Rough for Theatre II",
+   "overview": "Hamm is an ageing, blind tyrant who is confined to a wheelchair – but soon becomes locked in a bleakly funny and subversively devastating stalemate.  Endgame forms the first half of a double bill, performed alongside Samuel Beckett’s rarely-seen short play Rough for Theatre II.",
+   "popularity": 0.7191,
+   "poster_path": "/8W7I8j43DEL9hOmQjq1sKykqRPW.jpg",
+   "release_date": "2020-04-01",
+   "softcore": false,
+   "video": true,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "C",
+   "credit_id": "5e97b3469defda001abacad5",
+   "order": 2
+  }
+ ],
+ "crew": [],
+ "id": 1958366
+}

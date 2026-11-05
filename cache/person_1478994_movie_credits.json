@@ -1,0 +1,212 @@
+{
+ "cast": [
+  {
+   "adult": false,
+   "backdrop_path": "/eSG65lc9078UccumRSXgeP2mvuk.jpg",
+   "genre_ids": [
+    35,
+    18,
+    10402
+   ],
+   "id": 278857,
+   "title": "This American Life: Live at BAM",
+   "original_language": "en",
+   "original_title": "This American Life: Live at BAM",
+   "overview": "It’s This American Life’s wildest, most ambitious live show ever! Nearly 50 actors, singers, dancers, musicians and comedians joined Ira Glass onstage at the Brooklyn Academy of Music's Opera House on June 7th, 2014 to try some things they'd never tried before. The result? Journalism turned into opera, into plays, into a Broadway musical. Comedy from Mike Birbiglia, and SNL’s Sasheer Zamata. Songs from Stephin Merritt of the Magnetic Fields. Dance from Monica Bill Barnes & Company.",
+   "popularity": 1.139,
+   "poster_path": "/2Q4GtB9rUeT6Xzjag317J4croP1.jpg",
+   "release_date": "2014-06-20",
+   "softcore": false,
+   "video": false,
+   "vote_average": 8.1,
+   "vote_count": 4,
+   "character": "Naomi",
+   "credit_id": "55842ca7c3a368503e00011b",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/tD9gHDBMUQaw07LKppyNnAWaK1y.jpg",
+   "genre_ids": [
+    35,
+    10402
+   ],
+   "id": 1306400,
+   "title": "Merrily We Roll Along",
+   "original_language": "en",
+   "original_title": "Merrily We Roll Along",
+   "overview": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. (A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.)",
+   "popularity": 2.8992,
+   "poster_path": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+   "release_date": "2025-12-04",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.9,
+   "vote_count": 25,
+   "character": "Mary Flynn",
+   "credit_id": "667220aebb8f5f4d3690b5c2",
+   "order": 1
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [],
+   "id": 703765,
+   "title": "Significant Other",
+   "original_language": "en",
+   "original_title": "Significant Other",
+   "overview": "All of Jordan Berman’s best friends are setting a date…and he can’t even get one. Now when he needs brunch plans, emergency dating advice, or just someone to commiserate and eat carbs with, he has to compete for attention with their new significant others. Of course he’s so happy for them, but Jordan is struggling to keep up with how fast everyone else is changing.",
+   "popularity": 0.9047,
+   "poster_path": "/6t5A2Ubb5Sp1mHVKdjzjf7u8hmK.jpg",
+   "release_date": "2020-05-14",
+   "softcore": false,
+   "video": true,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Laura",
+   "credit_id": "5ebc3ce41dbc88001bdc0f00",
+   "order": 5
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/3qCvygrmeIh2jiqfytDimm39tBZ.jpg",
+   "genre_ids": [
+    18,
+    35
+   ],
+   "id": 869882,
+   "title": "The Grotto",
+   "original_language": "en",
+   "original_title": "The Grotto",
+   "overview": "When her fiancé dies unexpectedly and she loses her job, 40-something music manager Alice Kendall inherits half ownership of The Grotto, a struggling nightclub in the California desert where she discovers eccentric performers and a heartbreaking secret.",
+   "popularity": 0.5358,
+   "poster_path": "/6w8EBBUUj4AuOeFJ6q17JUh7CEE.jpg",
+   "release_date": "2022-10-07",
+   "softcore": false,
+   "video": false,
+   "vote_average": 2.0,
+   "vote_count": 2,
+   "character": "Carmelita",
+   "credit_id": "66f41cac824701db2f23075b",
+   "order": 7
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/lo5I2tAKUypIswk6RVfknoCQx0c.jpg",
+   "genre_ids": [
+    10402,
+    35,
+    36,
+    99
+   ],
+   "id": 1274855,
+   "title": "Show of Titles",
+   "original_language": "en",
+   "original_title": "Show of Titles",
+   "overview": "An evening of celebrated stars performing the titles songs from Broadway’s best.",
+   "popularity": 1.391,
+   "poster_path": "/qmZ4biNeWce8xjht1obYVVKU8xy.jpg",
+   "release_date": "2021-06-13",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "\"There's No Business Like Show Business\" Performer",
+   "credit_id": "6786a979ababbba040bbab2b",
+   "order": 34
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/5Sz4Yo7vJwNX9jK8ha8hYHpjWfd.jpg",
+   "genre_ids": [
+    10402
+   ],
+   "id": 1428704,
+   "title": "Shoshana Bean and Friends: An Evening of Broadway",
+   "original_language": "en",
+   "original_title": "Shoshana Bean and Friends: An Evening of Broadway",
+   "overview": "You are invited to join recording artist and Broadway star Shoshana Bean and her cast of friends for a musical evening of Broadway tunes.",
+   "popularity": 0.9318,
+   "poster_path": "/eswAAhX9SGKLBCFMEWSV0bGbjVn.jpg",
+   "release_date": "2020-07-13",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Performer",
+   "credit_id": "67a16eab2505cac8e002f362",
+   "order": 9
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/rChDPsru59gt0tDQvGFcwzfv8a8.jpg",
+   "genre_ids": [
+    10402
+   ],
+   "id": 1439250,
+   "title": "Broadway's Leading Ladies",
+   "original_language": "en",
+   "original_title": "Broadway's Leading Ladies",
+   "overview": "Join an extraordinary lineup of talent and the American Pops Orchestra to pay tribute to the women who have defined Broadway and those who are shaping its future. This March 2025 concert at New York's Town Hall is a celebration of song and legacy.",
+   "popularity": 1.0619,
+   "poster_path": "/n7wxEXIC6dYFHldDlyKENaXyIIp.jpg",
+   "release_date": "2025-11-28",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "Self",
+   "credit_id": "67bc8d11a23929ac28bf0d2c",
+   "order": 4
+  },
+  {
+   "adult": false,
+   "backdrop_path": null,
+   "genre_ids": [
+    18
+   ],
+   "id": 1441230,
+   "title": "These Little Ones Perish",
+   "original_language": "en",
+   "original_title": "These Little Ones Perish",
+   "overview": "The gripping story begins after a young altar boy's tragic death by suicide in a local church. Father Frye (Colin Bates) discovers the body, only to face resistance from the church hierarchy, the local police and the surrounding community. His investigation is driven by the grief and distrust of the boy’s older sister, Siobhan (Ella Kennedy Davis), as well as the church’s apparent urgency to bury the truth. Together, Frye and Siobhan—united by their shared loss but divided by Frye’s unwavering loyalty to the institution—uncover dark secrets buried within the church. As they dig deeper, Frye’s faith and career are put to the test, especially as his superior, the bishop, and his former mentor, the Monsignor, will do whatever it takes to stop the truth from surfacing.",
+   "popularity": 0.8732,
+   "poster_path": null,
+   "release_date": "",
+   "softcore": false,
+   "video": false,
+   "vote_average": 0.0,
+   "vote_count": 0,
+   "character": "",
+   "credit_id": "68b70fecd1a6b326ce54f0af",
+   "order": 8
+  }
+ ],
+ "crew": [
+  {
+   "adult": false,
+   "backdrop_path": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+   "genre_ids": [
+    14,
+    12,
+    10749
+   ],
+   "id": 967941,
+   "title": "Wicked: For Good",
+   "original_language": "en",
+   "original_title": "Wicked: For Good",
+   "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba must unite one last time with honesty and empathy to fulfill their shared destiny and change the fate of Oz forever.",
+   "popularity": 10.7644,
+   "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+   "release_date": "2025-11-19",
+   "softcore": false,
+   "video": false,
+   "vote_average": 6.562,
+   "vote_count": 1214,
+   "credit_id": "6920a11c6d47adb1734a3334",
+   "department": "Sound",
+   "job": "Vocals"
+  }
+ ],
+ "id": 1478994
+}
